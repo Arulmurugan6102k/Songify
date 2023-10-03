@@ -1,0 +1,119 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  #search {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+  }
+  #searchButton {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #searchButton:hover {
+    background-color: #0056b3;
+  }
+  #headphoneCheckbox {
+    margin-right: 5px;
+  }
+  #results {
+    margin-top: 20px;
+  }
+  .audio-container {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .audio-container h2 {
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+  }
+  .audio-buttons {
+    margin-top: 10px;
+    
+  body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  #search {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+  }
+  #searchButton {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #searchButton:hover {
+    background-color: #0056b3;
+  }
+  #headphoneCheckbox {
+    margin-right: 5px;
+  }
+  #results {
+    margin-top: 20px;
+  }
+  .audio-container {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .audio-container h2 {
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+  }
+  }
+  .audio-buttons button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    font-size: 14px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .audio-buttons button:hover {
+    background-color: #0056b3;
+  }
